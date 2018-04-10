@@ -1,0 +1,25 @@
+{
+    "name": "bae-nodejs",
+    "version": "1.0.0",
+    "author": "bae",
+    "description": "The first bae nodejs app!",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "axios": "^0.17.1",
+        "body-parser": "^1.18.2",
+        "express": "^4.16.2",
+        "mysql": "^2.15.0",
+        "request": "^2.83.0",
+        "lyric-parser": "^1.0.1",
+        "js-base64": "^2.4.0",
+        "iscroll": "^5.2.0",
+        "jsonp": "^0.2.1",
+        "good-storage": "^1.0.1",
+        "create-keyframe-animation": "^0.1.0",
+        "fastclick": "^1.0.6",
+        "babel-polyfill": "^6.26.0",
+        "better-scroll": "^1.4.2"
+    }
+}
